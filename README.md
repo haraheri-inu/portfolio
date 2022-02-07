@@ -11,4 +11,4 @@ I'm a MASTER COURSE student (as of 2022) at Kyoto University and a amateur compo
 - Mathematics / 数学
   - Mathematical logic / 数理論理学
     
-    数理論理学は数学における推論を対象とした数学であり、厳密な定義を与えられた「証明」や「構造」に関する一般論を展開する。
+    数理論理学は数学における推論を対象とした数学であり、厳密な定義を与えられた「証明」や「構造」に関する一般論を展開する。私が特に強い関心を向けているのは証明論と呼ばれる理論であり、さらには証明論を基盤とした証明論的意味論 (proof theoretic semantics)を、形式意味論に適用する試みに関心がある。
