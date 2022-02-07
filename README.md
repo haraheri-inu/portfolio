@@ -6,7 +6,9 @@ I'm a MASTER COURSE student (as of 2022) at Kyoto University and a amateur compo
 # Interests / 関心
 - Linguistics / 言語学
   - Formal semantics / 形式意味論
+    
     形式意味論は言語学の一分野であり、言語の意味に対する数理的な理解を追求する分野である。主な対象は言語を解した論理的な推論であり、数理論理学を中心的な道具立てとした解明を目指す。
 - Mathematics / 数学
   - Mathematical logic / 数理論理学
+    
     数理論理学は数学における推論を対象とした数学であり、厳密な定義を与えられた「証明」や「構造」に関する一般論を展開する。
