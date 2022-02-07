@@ -18,6 +18,6 @@ I'm a graduate student (as of 2022) at Kyoto University and a amateur composer. 
     人工知能は知的活動を計算機上で実現するための技術・学問である。私の主な関心は人工知能と言語学の融合的研究である、その他にも、深層学習・機械学習といった、現在たいへんな注目を集めている技術についても関心がある。さらに具体的なタスクとして主なものは自然言語推論、歌声合成である。
 
 # Resources / 資料
-- 自然言語の意味をモデル化する試み [pdf](https://drive.google.com/file/d/16ZdHsEBu-JVqSlBgB5biMt2WFBbALR0R/view?usp=sharing)
+- 自然言語の意味をモデル化する試み (2022-02-02) [pdf](https://drive.google.com/file/d/16ZdHsEBu-JVqSlBgB5biMt2WFBbALR0R/view?usp=sharing)
   
   形式意味論の基本的なアイデアに関する某所での発表資料
