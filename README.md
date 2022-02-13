@@ -21,3 +21,7 @@ I'm a graduate student (as of 2022) at Kyoto University and a amateur composer. 
 - 自然言語の意味をモデル化する試み (2022-02-02) [pdf](https://drive.google.com/file/d/16ZdHsEBu-JVqSlBgB5biMt2WFBbALR0R/view?usp=sharing)
   
   形式意味論の基本的なアイデアに関する某所での発表資料
+  
+- 論理への論理的アプローチ (2022-02-12) [pdf](https://drive.google.com/file/d/1lwNftKbx1SiE6Uvo1mwzvTCmBZIXrgDN/view?usp=sharing)
+
+  証明論の初歩的な内容の発表資料（内容の間違いが多いかも）
