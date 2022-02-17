@@ -5,8 +5,6 @@
 # Interests / 関心
 - Linguistics / 言語学
   - Computational semantics / 計算言語学
-    - Proof-theoretic semantics / 証明論的意味論
-    - Categorial grammar / カテゴリ文法
 - Mathematics / 数学
   - Mathematical logic / 数理論理学
 - Informatics / 情報学
