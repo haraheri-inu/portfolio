@@ -1,6 +1,6 @@
 # Profile
 - A graduate student at Kyoto University (Mathematical Informatics, Graduate School of Human and Environmental Studies)
-- Twitter: https://twitter.com/haraheri_inu
+- Twitter: https://twitter.com/hfnklara
 - Youtube: https://www.youtube.com/channel/UC6IdDDxv8ii_oO8PHmklwdA
 
 # Outputs
